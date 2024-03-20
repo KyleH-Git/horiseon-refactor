@@ -1,2 +1,2 @@
 # horiseon-refactor
-Refactoring code for accesibility and semantic elements
+Refactoring code for accessibility and semantic elements
