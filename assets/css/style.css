@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header styles */
+/* header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -27,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* styling for nav links located in header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,15 +45,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* styling for main image on homepage */
 figure {
     height: 800px;
     width: 100%;
@@ -62,12 +61,16 @@ figure {
     background-position: center;
 }
 
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* styling for the aside block */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -96,7 +99,7 @@ aside article {
 }
 
 
-/* Styling for footer  */
+/* styling for footer  */
 footer {
     padding: 30px;
     clear: both;
@@ -109,10 +112,7 @@ footer h2 {
 }
 
 /* Class styles */
-.hero {
-    
-}
-
+/* styling for images to appear on left or right side of articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -124,7 +124,7 @@ footer h2 {
 }
 
 
-/* Styling for main content blocks */
+/* styling for main content blocks */
 .content-body {
     margin-bottom: 20px;
     padding: 50px;
