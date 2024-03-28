@@ -1,5 +1,10 @@
 # Horiseon Site Refactoring
 
+![alt text](./assets/images/readmeimg.png)
+
+## Site Link
+https://kyleh-git.github.io/horiseon-refactor/
+
 ## Description
 
 This project is a refactoring of the Horiseon site. It's main objectives are to properly use semantic HTML practices and to clean up redundant CSS styles.
